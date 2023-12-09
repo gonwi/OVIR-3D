@@ -1,6 +1,6 @@
 [submodule "Detic"]
 	path = Detic
-	url = https://github.com/shiyoung77/Detic.git
+	url = https://github.com/gonwi/Detic.git
 [submodule "KinectFusion-python"]
 	path = KinectFusion-python
-	url = https://github.com/shiyoung77/KinectFusion-python.git
+	url = https://github.com/gonwi/KinectFusion-python.git

@@ -1,4 +1,4 @@
-# OVIR-3D
+# Gonwi's OVIR-3D
 > [!IMPORTANT]
 > We will be presenting our poster at [CoRL'23](https://www.corl2023.org) on Wednesday, Nov. 8. from 5:15 - 6:00 pm in [session 4](https://www.corl2023.org/papers#:~:text=Poster%204%3A%20LLM/VLM/HRI). Hope to see you in person!
 
